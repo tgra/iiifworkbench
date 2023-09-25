@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://e04daebe-352d-48e1-8efc-57d9221f1bd1",
+	"@type": "sc:Manifest",
+	"label": "The Gazette issue 223",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://da2c5fb0-92e8-4d8b-906d-c906d13a5112",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://00ea2522-b3ed-43eb-8688-9d0166b6baa4",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4770,
+					"width": 2994,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ece4c1b4-9889-4a2f-9db5-33a245b48ee4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://tgra.github.io/iiifworkbench/images/0001_00/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://tgra.github.io/iiifworkbench/images/0001_00",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 4770,
+								"width": 2994
+							},
+							"on": "http://00ea2522-b3ed-43eb-8688-9d0166b6baa4"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
