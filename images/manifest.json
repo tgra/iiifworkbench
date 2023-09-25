@@ -1,0 +1,66 @@
+{
+  "id" : "https://tgra.github.io/iiifworkbench/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in tgra/iiifworkbench project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2994,
+    "id" : "https://tgra.github.io/iiifworkbench/images/0001_00/canvas/",
+    "label" : {
+      "none" : [ "0001_00" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://tgra.github.io/iiifworkbench/images/0001_00/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://tgra.github.io/iiifworkbench/images/0001_00/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 94,
+              "height" : 150
+            }, {
+              "width" : 188,
+              "height" : 299
+            }, {
+              "width" : 375,
+              "height" : 597
+            }, {
+              "width" : 749,
+              "height" : 1193
+            }, {
+              "width" : 1497,
+              "height" : 2385
+            }, {
+              "width" : 2994,
+              "height" : 4770
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2994,
+            "@id" : "https://tgra.github.io/iiifworkbench/images/0001_00",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4770
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2994,
+          "id" : "https://tgra.github.io/iiifworkbench/images/0001_00/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4770
+        },
+        "target" : "https://tgra.github.io/iiifworkbench/images/0001_00/canvas/"
+      } ]
+    } ],
+    "height" : 4770
+  } ]
+}
