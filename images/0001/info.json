@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 69,
+    "height" : 108
+  }, {
+    "width" : 137,
+    "height" : 216
+  }, {
+    "width" : 274,
+    "height" : 432
+  }, {
+    "width" : 548,
+    "height" : 863
+  }, {
+    "width" : 1095,
+    "height" : 1725
+  }, {
+    "width" : 2189,
+    "height" : 3449
+  } ],
+  "profile" : "level0",
+  "width" : 2189,
+  "id" : "https://tgra.github.io/iiifworkbench/images/0001",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3449
+}
