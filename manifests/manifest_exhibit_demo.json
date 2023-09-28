@@ -1,20 +1,20 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://066a8e94-0273-43ab-b321-f3e2ee468a90",
+	"@id": "http://3ab5f116-7622-4e78-a151-767c9c995f5b",
 	"@type": "sc:Manifest",
-	"label": "The London Gazette",
+	"label": "London Gazette ",
 	"metadata": [],
 	"description": [
 		{
-			"@value": "The London Gazette",
+			"@value": "[Click to edit description]",
 			"@language": "en"
 		}
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "",
+	"attribution": "[Click to edit attribution]",
 	"sequences": [
 		{
-			"@id": "http://7d8a8db5-e503-4610-986e-1b143953a818",
+			"@id": "http://6728b470-8293-4086-a111-d4e4df8fa907",
 			"@type": "sc:Sequence",
 			"label": [
 				{
@@ -24,15 +24,15 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://fdc93497-7977-405b-969c-c97dfaf1038d",
+					"@id": "http://cd7f1560-41b3-41b7-8352-6dfa3bd3d725",
 					"@type": "sc:Canvas",
-					"label": "Page 1",
+					"label": "page 1",
 					"height": 3449,
 					"width": 2189,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://6b28502a-7122-4e52-86d5-25ddcde5df00",
+							"@id": "http://37e80d39-b8d5-41d1-901a-a2e101960f75",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -47,21 +47,21 @@
 								"height": 3449,
 								"width": 2189
 							},
-							"on": "http://fdc93497-7977-405b-969c-c97dfaf1038d"
+							"on": "http://cd7f1560-41b3-41b7-8352-6dfa3bd3d725"
 						}
 					],
 					"related": ""
 				},
 				{
-					"@id": "http://df6aa2c0-7e32-40d2-98b5-6510352d13e2",
+					"@id": "http://0dabbc48-3ddc-4c41-a1bd-1c40af085aca",
 					"@type": "sc:Canvas",
-					"label": "Page 2",
+					"label": "page 2",
 					"height": 3464,
 					"width": 2213,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d400b6f3-0e3e-4531-9945-f34c9a7ace5d",
+							"@id": "http://43a68ec0-224d-47b3-984e-3aee74f69bb6",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -76,50 +76,50 @@
 								"height": 3464,
 								"width": 2213
 							},
-							"on": "http://df6aa2c0-7e32-40d2-98b5-6510352d13e2"
+							"on": "http://0dabbc48-3ddc-4c41-a1bd-1c40af085aca"
 						}
 					],
 					"related": ""
 				},
 				{
-					"@id": "http://53012491-ea4d-4ccb-affa-727cbdf0a12e",
+					"@id": "http://65474aa8-1817-49a4-9ff5-8b6d04eb3207",
 					"@type": "sc:Canvas",
-					"label": "Page 3",
-					"height": 3449,
-					"width": 2189,
+					"label": "page 3",
+					"height": 3464,
+					"width": 2210,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://2d435f6a-1519-47f4-bad7-15a1a0cc105b",
+							"@id": "http://c5dae5d8-868d-4f1f-9044-4d750a3a0b86",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://tgra.github.io/iiifworkbench/images/0001/full/full/0/default.jpg",
+								"@id": "https://tgra.github.io/iiifworkbench/images/0003/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://tgra.github.io/iiifworkbench/images/0001",
+									"@id": "https://tgra.github.io/iiifworkbench/images/0003",
 									"profile": "level0"
 								},
-								"height": 3449,
-								"width": 2189
+								"height": 3464,
+								"width": 2210
 							},
-							"on": "http://53012491-ea4d-4ccb-affa-727cbdf0a12e"
+							"on": "http://65474aa8-1817-49a4-9ff5-8b6d04eb3207"
 						}
 					],
 					"related": ""
 				},
 				{
-					"@id": "http://5d22f20e-50a4-425a-b6e6-456b415914c4",
+					"@id": "http://403a01c6-4e3d-483a-92e8-542c3582d27b",
 					"@type": "sc:Canvas",
-					"label": "Page 5",
+					"label": "page 4",
 					"height": 3471,
 					"width": 2222,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b6628487-ad50-4278-ade8-16f7c40f689b",
+							"@id": "http://a9bf1760-fc98-4eaa-add5-9aff2b7d9a4c",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -134,7 +134,7 @@
 								"height": 3471,
 								"width": 2222
 							},
-							"on": "http://5d22f20e-50a4-425a-b6e6-456b415914c4"
+							"on": "http://403a01c6-4e3d-483a-92e8-542c3582d27b"
 						}
 					],
 					"related": ""
