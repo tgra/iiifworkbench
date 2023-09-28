@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2189,
+    "id" : "https://tgra.github.io/iiifworkbench/images/0001/canvas/",
+    "label" : {
+      "none" : [ "0001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://tgra.github.io/iiifworkbench/images/0001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://tgra.github.io/iiifworkbench/images/0001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 69,
+              "height" : 108
+            }, {
+              "width" : 137,
+              "height" : 216
+            }, {
+              "width" : 274,
+              "height" : 432
+            }, {
+              "width" : 548,
+              "height" : 863
+            }, {
+              "width" : 1095,
+              "height" : 1725
+            }, {
+              "width" : 2189,
+              "height" : 3449
+            } ],
+            "profile" : "level0",
+            "width" : 2189,
+            "id" : "https://tgra.github.io/iiifworkbench/images/0001",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3449
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2189,
+          "id" : "https://tgra.github.io/iiifworkbench/images/0001/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 3449
+        },
+        "target" : "https://tgra.github.io/iiifworkbench/images/0001/canvas/"
+      } ]
+    } ],
+    "height" : 3449
+  }, {
     "width" : 2994,
     "id" : "https://tgra.github.io/iiifworkbench/images/0001_00/canvas/",
     "label" : {
