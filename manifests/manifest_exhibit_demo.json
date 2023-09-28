@@ -1,0 +1,146 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://066a8e94-0273-43ab-b321-f3e2ee468a90",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "The London Gazette",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://7d8a8db5-e503-4610-986e-1b143953a818",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://fdc93497-7977-405b-969c-c97dfaf1038d",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3449,
+					"width": 2189,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6b28502a-7122-4e52-86d5-25ddcde5df00",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://tgra.github.io/iiifworkbench/images/0001/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://tgra.github.io/iiifworkbench/images/0001",
+									"profile": "level0"
+								},
+								"height": 3449,
+								"width": 2189
+							},
+							"on": "http://fdc93497-7977-405b-969c-c97dfaf1038d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://df6aa2c0-7e32-40d2-98b5-6510352d13e2",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3464,
+					"width": 2213,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d400b6f3-0e3e-4531-9945-f34c9a7ace5d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://tgra.github.io/iiifworkbench/images/0002/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://tgra.github.io/iiifworkbench/images/0002",
+									"profile": "level0"
+								},
+								"height": 3464,
+								"width": 2213
+							},
+							"on": "http://df6aa2c0-7e32-40d2-98b5-6510352d13e2"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://53012491-ea4d-4ccb-affa-727cbdf0a12e",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3449,
+					"width": 2189,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2d435f6a-1519-47f4-bad7-15a1a0cc105b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://tgra.github.io/iiifworkbench/images/0001/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://tgra.github.io/iiifworkbench/images/0001",
+									"profile": "level0"
+								},
+								"height": 3449,
+								"width": 2189
+							},
+							"on": "http://53012491-ea4d-4ccb-affa-727cbdf0a12e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5d22f20e-50a4-425a-b6e6-456b415914c4",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3471,
+					"width": 2222,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b6628487-ad50-4278-ade8-16f7c40f689b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://tgra.github.io/iiifworkbench/images/0004/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://tgra.github.io/iiifworkbench/images/0004",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3471,
+								"width": 2222
+							},
+							"on": "http://5d22f20e-50a4-425a-b6e6-456b415914c4"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
