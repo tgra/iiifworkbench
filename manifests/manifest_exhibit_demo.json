@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://066a8e94-0273-43ab-b321-f3e2ee468a90",
 	"@type": "sc:Manifest",
-	"label": "[Click to edit label]",
+	"label": "The London Gazette",
 	"metadata": [],
 	"description": [
 		{
@@ -26,7 +26,7 @@
 				{
 					"@id": "http://fdc93497-7977-405b-969c-c97dfaf1038d",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Page 1",
 					"height": 3449,
 					"width": 2189,
 					"images": [
@@ -55,7 +55,7 @@
 				{
 					"@id": "http://df6aa2c0-7e32-40d2-98b5-6510352d13e2",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Page 2",
 					"height": 3464,
 					"width": 2213,
 					"images": [
@@ -84,7 +84,7 @@
 				{
 					"@id": "http://53012491-ea4d-4ccb-affa-727cbdf0a12e",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Page 3",
 					"height": 3449,
 					"width": 2189,
 					"images": [
@@ -113,7 +113,7 @@
 				{
 					"@id": "http://5d22f20e-50a4-425a-b6e6-456b415914c4",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Page 5",
 					"height": 3471,
 					"width": 2222,
 					"images": [
